@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoApplication", "DemoApplication\DemoApplication.csproj", "{3E7F6295-8D1F-4D41-8236-76D398DE039C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoApplication.WebAPI", "DemoApplication.WebAPI\DemoApplication.WebAPI.csproj", "{C25F6839-C8F6-480A-9705-0954562B995E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E7F6295-8D1F-4D41-8236-76D398DE039C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E7F6295-8D1F-4D41-8236-76D398DE039C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E7F6295-8D1F-4D41-8236-76D398DE039C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E7F6295-8D1F-4D41-8236-76D398DE039C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C25F6839-C8F6-480A-9705-0954562B995E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C25F6839-C8F6-480A-9705-0954562B995E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C25F6839-C8F6-480A-9705-0954562B995E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C25F6839-C8F6-480A-9705-0954562B995E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
